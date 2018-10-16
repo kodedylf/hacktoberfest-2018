@@ -17,7 +17,7 @@ public class Hacktoberfest {
 
      public static void iAmAlsoThinkingOfANumber() {
          int myNumber = (int) (Math.random() * 100 + 1);
-         System.out.println("Jeg tænker på et tal. Se om du kan gætte det.");
+         System.out.println("Jeg tænker på et tal mellem 1 og 100. Se om du kan gætte det.");
          Scanner scanner = new Scanner(System.in);
          int numberOfGuesses = 0;
          int guess = 0;
