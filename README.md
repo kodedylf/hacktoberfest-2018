@@ -2,3 +2,5 @@
 Hacktoberfest
 
 Repository for learning about Git and Github
+
+Pull requests welcome
